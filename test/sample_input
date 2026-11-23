@@ -1,0 +1,74 @@
+==================================================
+SAMPLE CASE 1: ENTER ATTENDANCE DETAILS
+Menu Choice: 1
+==================================================
+
+Enter your choice: 1
+
+Advanced Engineering Mathematics
+Enter total classes conducted: 40
+Enter classes attended: 32
+
+Physics for Computer Science
+Enter total classes conducted: 40
+Enter classes attended: 28
+
+Problem Solving
+Enter total classes conducted: 30
+Enter classes attended: 24
+
+Programming in C
+Enter total classes conducted: 40
+Enter classes attended: 32
+
+Environment, Sustainability and Climate Change
+Enter total classes conducted: 20
+Enter classes attended: 15
+
+
+==================================================
+SAMPLE CASE 2: VIEW CURRENT ATTENDANCE
+Menu Choice: 2
+==================================================
+
+Enter your choice: 2
+
+
+==================================================
+SAMPLE CASE 3: NEXT CLASS IMPACT ANALYSIS
+Menu Choice: 3
+==================================================
+
+Enter your choice: 3
+
+
+==================================================
+SAMPLE CASE 4: CHECK HOW MANY CLASSES CAN BE MISSED
+Menu Choice: 4
+==================================================
+
+Enter your choice: 4
+
+
+==================================================
+SAMPLE CASE 5: VIEW DEBARRED SUBJECTS
+Menu Choice: 5
+==================================================
+
+Enter your choice: 5
+
+
+==================================================
+SAMPLE CASE 6: VIEW OVERALL ATTENDANCE
+Menu Choice: 6
+==================================================
+
+Enter your choice: 6
+
+
+==================================================
+SAMPLE CASE 7: EXIT
+Menu Choice: 7
+==================================================
+
+Enter your choice: 7
