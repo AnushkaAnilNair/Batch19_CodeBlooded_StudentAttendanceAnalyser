@@ -1,0 +1,174 @@
+==================================================
+SAMPLE CASE 1: ENTER ATTENDANCE DETAILS
+==================================================
+
+Attendance details saved successfully!
+
+
+==================================================
+SAMPLE CASE 2: VIEW CURRENT ATTENDANCE
+==================================================
+
+========== CURRENT ATTENDANCE ==========
+
+Advanced Engineering Mathematics
+Classes Conducted : 40
+Classes Attended  : 32
+Attendance        : 80.00%
+Status            : ELIGIBLE
+
+Physics for Computer Science
+Classes Conducted : 40
+Classes Attended  : 28
+Attendance        : 70.00%
+Status            : DEBARRED
+
+Problem Solving
+Classes Conducted : 30
+Classes Attended  : 24
+Attendance        : 80.00%
+Status            : ELIGIBLE
+
+Programming in C
+Classes Conducted : 40
+Classes Attended  : 32
+Attendance        : 80.00%
+Status            : ELIGIBLE
+
+Environment, Sustainability and Climate Change
+Classes Conducted : 20
+Classes Attended  : 15
+Attendance        : 75.00%
+Status            : ELIGIBLE
+
+
+==================================================
+SAMPLE CASE 3: NEXT CLASS IMPACT ANALYSIS
+==================================================
+
+========== NEXT CLASS ANALYSIS ==========
+
+Advanced Engineering Mathematics
+Current Attendance : 80.00%
+
+If Next Class is ATTENDED:
+New Attendance     : 80.49%
+Rate of Change     : +0.49%
+
+If Next Class is MISSED:
+New Attendance     : 78.05%
+Rate of Change     : -1.95%
+
+
+Physics for Computer Science
+Current Attendance : 70.00%
+
+If Next Class is ATTENDED:
+New Attendance     : 70.73%
+Rate of Change     : +0.73%
+
+If Next Class is MISSED:
+New Attendance     : 68.29%
+Rate of Change     : -1.71%
+
+
+Problem Solving
+Current Attendance : 80.00%
+
+If Next Class is ATTENDED:
+New Attendance     : 80.65%
+Rate of Change     : +0.65%
+
+If Next Class is MISSED:
+New Attendance     : 77.42%
+Rate of Change     : -2.58%
+
+
+Programming in C
+Current Attendance : 80.00%
+
+If Next Class is ATTENDED:
+New Attendance     : 80.49%
+Rate of Change     : +0.49%
+
+If Next Class is MISSED:
+New Attendance     : 78.05%
+Rate of Change     : -1.95%
+
+
+Environment, Sustainability and Climate Change
+Current Attendance : 75.00%
+
+If Next Class is ATTENDED:
+New Attendance     : 76.19%
+Rate of Change     : +1.19%
+
+If Next Class is MISSED:
+New Attendance     : 71.43%
+Rate of Change     : -3.57%
+
+
+==================================================
+SAMPLE CASE 4: CHECK HOW MANY CLASSES CAN BE MISSED
+==================================================
+
+========== CLASSES YOU CAN MISS ==========
+
+Advanced Engineering Mathematics
+Current Attendance : 80.00%
+Status              : ELIGIBLE
+Classes You Can Miss: 2
+Taking Next Class Off: SAFE
+
+Physics for Computer Science
+Current Attendance : 70.00%
+Status              : DEBARRED
+Classes You Can Miss: 0
+Taking Next Class Off: NOT SAFE
+
+Problem Solving
+Current Attendance : 80.00%
+Status              : ELIGIBLE
+Classes You Can Miss: 2
+Taking Next Class Off: SAFE
+
+Programming in C
+Current Attendance : 80.00%
+Status              : ELIGIBLE
+Classes You Can Miss: 2
+Taking Next Class Off: SAFE
+
+Environment, Sustainability and Climate Change
+Current Attendance : 75.00%
+Status              : ELIGIBLE
+Classes You Can Miss: 0
+Taking Next Class Off: NOT SAFE
+
+
+==================================================
+SAMPLE CASE 5: VIEW DEBARRED SUBJECTS
+==================================================
+
+========== DEBARRED SUBJECTS ==========
+
+Physics for Computer Science : 70.00% - DEBARRED
+
+Total Debarred Subjects: 1
+
+
+==================================================
+SAMPLE CASE 6: VIEW OVERALL ATTENDANCE
+==================================================
+
+========== OVERALL ATTENDANCE ==========
+
+Total Classes Conducted : 170
+Total Classes Attended  : 131
+Overall Attendance      : 77.06%
+
+
+==================================================
+SAMPLE CASE 7: EXIT
+==================================================
+
+Thank you for using Student Attendance Analyser!
